@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Products/Debug-iphonesimulator/HelloWorldApp.app/HelloWorldApp'
+relocations:     []
+...

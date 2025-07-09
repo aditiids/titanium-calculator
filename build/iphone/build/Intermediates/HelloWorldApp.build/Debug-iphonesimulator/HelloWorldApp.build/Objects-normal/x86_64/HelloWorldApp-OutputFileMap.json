@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/HelloWorldApp-master.dia",
+    "emit-module-dependencies" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/HelloWorldApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/HelloWorldApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/HelloWorldApp-master.swiftdeps"
+  },
+  "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/Classes/TiActivityAttributes.swift" : {
+    "const-values" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiActivityAttributes.swiftconstvalues",
+    "dependencies" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiActivityAttributes.d",
+    "diagnostics" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiActivityAttributes.dia",
+    "index-unit-output-path" : "/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiActivityAttributes.o",
+    "llvm-bc" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiActivityAttributes.bc",
+    "object" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiActivityAttributes.o",
+    "swift-dependencies" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiActivityAttributes.swiftdeps",
+    "swiftmodule" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiActivityAttributes~partial.swiftmodule"
+  },
+  "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/Classes/TiAppiOSActivityAttributesProxy+startActivity.swift" : {
+    "const-values" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiAppiOSActivityAttributesProxy+startActivity.swiftconstvalues",
+    "dependencies" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiAppiOSActivityAttributesProxy+startActivity.d",
+    "diagnostics" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiAppiOSActivityAttributesProxy+startActivity.dia",
+    "index-unit-output-path" : "/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiAppiOSActivityAttributesProxy+startActivity.o",
+    "llvm-bc" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiAppiOSActivityAttributesProxy+startActivity.bc",
+    "object" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiAppiOSActivityAttributesProxy+startActivity.o",
+    "swift-dependencies" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiAppiOSActivityAttributesProxy+startActivity.swiftdeps",
+    "swiftmodule" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiAppiOSActivityAttributesProxy+startActivity~partial.swiftmodule"
+  },
+  "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/Classes/TiUtils+Addons.swift" : {
+    "const-values" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiUtils+Addons.swiftconstvalues",
+    "dependencies" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiUtils+Addons.d",
+    "diagnostics" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiUtils+Addons.dia",
+    "index-unit-output-path" : "/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiUtils+Addons.o",
+    "llvm-bc" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiUtils+Addons.bc",
+    "object" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiUtils+Addons.o",
+    "swift-dependencies" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiUtils+Addons.swiftdeps",
+    "swiftmodule" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/TiUtils+Addons~partial.swiftmodule"
+  },
+  "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/aditisuryawanshi/vscode/Unique Schools/HelloWorldApp/build/iphone/build/Intermediates/HelloWorldApp.build/Debug-iphonesimulator/HelloWorldApp.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
