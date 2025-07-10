@@ -76,18 +76,6 @@ This project helped me learn and practice:
 
 ---
 
-## 📸 Screenshots
-
-> 📷 Add screenshots of the login screen and calculator UI here.
-
----
-
-## 🧑‍💻 Author
-
-**Aditi Suryawanshi**  
-Intern | Mobile Development (Titanium)
-
----
 
 ## 📌 Notes
 
